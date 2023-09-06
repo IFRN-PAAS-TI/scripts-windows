@@ -1,0 +1,1 @@
+PowerShell.exe -ExecutionPolicy Bypass -File .\removerComputadores.ps1 > log.txt

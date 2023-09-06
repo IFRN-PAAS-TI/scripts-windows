@@ -1,0 +1,1 @@
+Coloque neste arquivo, separados por linha, o IP ou o nome das máquinas que serão alvos do comando remoto.

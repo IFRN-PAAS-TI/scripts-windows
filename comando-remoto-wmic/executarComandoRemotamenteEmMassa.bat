@@ -1,0 +1,1 @@
+wmic /node::@"alvos.txt" /user:[UsuarioAdministradorDominio] process call create "cmd.exe /c [Comando]"

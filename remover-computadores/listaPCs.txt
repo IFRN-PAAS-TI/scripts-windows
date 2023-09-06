@@ -1,0 +1,4 @@
+nome-do-computador-1-ou-ip
+nome-do-computador-2-ou-ip
+nome-do-computador-3-ou-ip
+etc
